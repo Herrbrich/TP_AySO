@@ -1,0 +1,174 @@
+cd repogit/
+cd TP_AySO/
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+cat datos_usuario.txt 
+git push
+git status
+git add datos_usuario.txt 
+git push
+git status
+git push
+cat datos_usuario.txt 
+git commit -m "ADD: Datos del procesador actualizos en datos_usuario.txt"
+git push
+mkdir lista_ordenada.txt
+ll
+rm -rf lista_ordenada.txt/
+LL
+ll
+touch lista_ordenada.txt
+cat lista_ordenada.txt 
+man grep
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 15 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 11 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+rm -rf lista_ordenada.txt 
+touch lista_ordenada.txt
+ll
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+sort -k 7 lista_ordenada.txt 
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k 7 > lista_ordenada.txt
+cat lista_ordenada.txt 
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+ll
+cat lista_ordenada.txt 
+git add to lista_ordenada.txt 
+git add lista_ordenada.txt 
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+sudo mandb
+man -k network 
+touch comando_dump_net.txt
+ll
+cat comando_dump_net.txt 
+ll
+add comit -m "ADD: El comando para para rehalizar la busqueda es man -k network"
+git comit -m "ADD:El comando para para rehalizar la busqueda es man -k network"
+git help
+git commit -m "ADD:El comando para para rehalizar la busqueda es man -k network"
+git add 
+ll
+git push
+git add comando_dump_net.txt 
+git push
+git push comando_dump_net.txt
+ll
+cat datos_usuario.txt 
+cat comando_dump_net.txt 
+cat lista_ordenada.txt 
+cat comando_dump_net.txt 
+git commit -m "ADD:El comando para para rehalizar la busqueda es man -k network"
+cat comando_dump_net.txt 
+git add comando_dump_net.txt 
+git push origin main
+echo El comando para 'dump traffic' es 'tcpdump >> comando_dump_net.txt
+cd ..
+cd ..
+echo "El comando para 'dump traffic' es 'tcpdump'" >> comando_dump_net.txt
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cat README.md 
+git add .
+git add . README.md 
+git commit -m "ADD: Info Personal UTN"
+git push
+git status
+history -a
+cd repogit/
+cd TP_AySO/
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+cat datos_usuario.txt 
+git push
+git status
+git add datos_usuario.txt 
+git push
+git status
+git push
+cat datos_usuario.txt 
+git commit -m "ADD: Datos del procesador actualizos en datos_usuario.txt"
+git push
+mkdir lista_ordenada.txt
+ll
+rm -rf lista_ordenada.txt/
+LL
+ll
+touch lista_ordenada.txt
+cat lista_ordenada.txt 
+man grep
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 15 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 11 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+rm -rf lista_ordenada.txt 
+touch lista_ordenada.txt
+ll
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+sort -k 7 lista_ordenada.txt 
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k 7 > lista_ordenada.txt
+cat lista_ordenada.txt 
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+ll
+cat lista_ordenada.txt 
+git add to lista_ordenada.txt 
+git add lista_ordenada.txt 
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+sudo mandb
+man -k network 
+touch comando_dump_net.txt
+ll
+cat comando_dump_net.txt 
+ll
+add comit -m "ADD: El comando para para rehalizar la busqueda es man -k network"
+git comit -m "ADD:El comando para para rehalizar la busqueda es man -k network"
+git help
+git commit -m "ADD:El comando para para rehalizar la busqueda es man -k network"
+git add 
+ll
+git push
+git add comando_dump_net.txt 
+git push
+git push comando_dump_net.txt
+ll
+cat datos_usuario.txt 
+cat comando_dump_net.txt 
+cat lista_ordenada.txt 
+cat comando_dump_net.txt 
+git commit -m "ADD:El comando para para rehalizar la busqueda es man -k network"
+cat comando_dump_net.txt 
+git add comando_dump_net.txt 
+git push origin main
+echo El comando para 'dump traffic' es 'tcpdump >> comando_dump_net.txt
+cd ..
+cd ..
+echo "El comando para 'dump traffic' es 'tcpdump'" >> comando_dump_net.txt
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cat README.md 
+git add .
+git add . README.md 
+git commit -m "ADD: Info Personal UTN"
+git push
+git status
+history -a
